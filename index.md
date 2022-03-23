@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Introduction
+# :bookmark_tabs: Introduction
 
 Hello! The purpose of this document is to guide you on how to set up a static Node.js web application using Express.js version 4.17.2 that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
 
