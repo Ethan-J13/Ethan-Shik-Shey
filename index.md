@@ -16,7 +16,7 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ---
 
-## Intended Ubers
+## Intended Users
 
 ### Dependencies
 
