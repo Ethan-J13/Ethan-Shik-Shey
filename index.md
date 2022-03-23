@@ -18,11 +18,11 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Intended Users
 
-### Dependencies
+## Software Versions
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
-### Quick start: Use as a GitHub Pages remote theme
+## Prerequisites
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 
@@ -32,7 +32,7 @@ remote_theme: just-the-docs/just-the-docs
 
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
-### Local installation: Use the gem-based theme
+## Procedures Overview
 
 1. Install the Ruby Gem
   ```bash
@@ -66,7 +66,7 @@ remote_theme: just-the-docs/just-the-docs
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+## Conclusion
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
