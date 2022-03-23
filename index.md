@@ -18,6 +18,11 @@ Express.js is one of the most popular Node.js back-end web application framework
 
 ## :trollface: Intended Users
 
+Regardless of where you are in your development journey, this documentation will provide clear guidance on the basic concepts of Express.js. This guide will be particularly useful for:
+
+* Beginner developers that have basic front-end and back-end knowledge.
+* Development teams that want to save time on back-end set up.
+
 ## Software Versions
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
