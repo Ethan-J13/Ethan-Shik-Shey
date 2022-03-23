@@ -7,12 +7,10 @@ permalink: /
 ---
 
 # Introduction
-{: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+Hello! The purpose of this document is to guide you on how to set up a static Node.js web application using Express.js version 4.17.2 that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Express.js is one of the most popular Node.js back-end web application frameworks that was released as a free and open-source software. It provides many useful features to provide server-side logic for web and mobile applications in a simple and flexible way. It also improves the development work flow for faster back end set-up and easier front-end integration.
 
 ---
 
