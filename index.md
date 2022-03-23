@@ -25,17 +25,19 @@ Regardless of where you are in your development journey, this documentation will
 
 ## Software Versions
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+Please have the following installed before proceeding:
+
+* Node.js version 14.17.6 or later
+* Visual Studio Code
+* Npm Package manager version 6 or later
 
 ## Prerequisites
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+This document requires the following knowledge:
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
-
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+* Working knowledge of the Visual Studio Code terminal
+* Basic knowledge of Javascript(ES6), HTML, and CSS to create a static web page
+* Working knowledge of the Node.js package manager npm
 
 ## Procedures Overview
 
