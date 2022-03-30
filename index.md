@@ -60,11 +60,11 @@ These instructions contain the following typographical conventions:
 | Menu item/option | **Bold** | **cut**, **clone**, **brush**|
 
 
+| Icon  | Purpose  |
+| --- | --- |
+| <img src="https://cdn-icons.flaticon.com/png/512/4201/premium/4201973.png?token=exp=1648655378~hmac=17eecf62b7e217cd564bd864a46cc91e" width="75"> | **Warning**: This is a warning icon. These indicate important content that should be read before proceeding. |
+| <img src="https://cdn-icons.flaticon.com/png/512/5683/premium/5683325.png?token=exp=1648657412~hmac=d455619e2a46b71057b651153554f8cd" width="75"> | **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues. |
 
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-warning-100-most-used-icons-flaticons-flat-flat-icons.png" width="50"> **Warning**: This is a warning icon. These indicate important content that should be read before proceeding.
-
-
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-idea-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="50"> **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues.
 
 ## Conclusion
 
