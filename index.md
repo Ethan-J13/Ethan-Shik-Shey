@@ -28,7 +28,7 @@ The software required for this guide is:
 The documentation assumes the following:
 
 * Working knowledge of any version of Adobe Photoshop, preferably the CC(Creative Cloud) version 
-* You are expected to know how to load an image from your device
+* Experience with how to load images into devices
 * Some familiarity with basic tools and functionality of Adobe Photoshop.
 
 If you already know how to use layers & make simple selections then this document is perfect for you.
