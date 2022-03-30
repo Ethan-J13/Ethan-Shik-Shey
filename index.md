@@ -33,11 +33,13 @@ The software required for this guide is:
 
 ## Prerequisites
 
-This document requires the following knowledge:
+The documentation assumes the following:
 
-* Working knowledge of the Visual Studio Code terminal
-* Basic knowledge of Javascript(ES6), HTML, and CSS to create a static web page
-* Working knowledge of the Node.js package manager npm
+* Working knowledge of any version of Adobe Photoshop, preferably the CC(Creative Cloud) version 
+* you are expected to know how to load an image from your device
+* Some familiarity with basic tools and functionality of Adobe Photoshop.
+
+If you already know how to use layers & make simple selections then you are perfect for following this document.
 
 ## Procedures Overview
 
