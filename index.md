@@ -39,7 +39,7 @@ The documentation assumes the following:
 * you are expected to know how to load an image from your device
 * Some familiarity with basic tools and functionality of Adobe Photoshop.
 
-If you already know how to use layers & make simple selections then you are perfect for following this document.
+If you already know how to use layers & make simple selections then this document is perfect for you.
 
 ## Procedures Overview
 
