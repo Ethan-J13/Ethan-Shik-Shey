@@ -9,7 +9,7 @@ permalink: /
 # :bookmark_tabs: Introduction
 
 Hello!
-This document has been made to help you learn to use some intermediate skills in Adobe Photoshop. The objective is to provide a step-by-step explanation of some topics that can be quite tricky. The individual tasks within the document will introduce you to these concepts and give an example to follow along to.
+This document has been made to help you learn to use some intermediate skills in Adobe Photoshop. The objective is to provide a step-by-step explanation of some topics that can be quite tricky. The individual tasks within the document will introduce you to these concepts and give an example to follow along with.
 
 Adobe Photoshop is a photo and raster graphics editor developed and published by Adobe Inc. for Windows and macOS. Since then, the software has become the industry standard not only in raster graphics editing but in digital art as a whole.
 
