@@ -18,18 +18,18 @@ Adobe Photoshop is a photo and raster graphics editor developed and published by
 
 ## Intended Users
 
-Regardless of where you are in your development journey, this documentation will provide clear guidance on the basic concepts of Express.js. This guide will be particularly useful for:
+This guide is intended for users who have basic experience with PhotoShop.
 
-* Beginner developers that have basic front-end and back-end knowledge.
-* Development teams that want to save time on back-end set up.
+* Beginners who want to learn how to combine multiple edits.
+* Users who are learning new tools and menu options
 
-## Software Versions
+## Software Requirements
 
-Please have the following installed before proceeding:
+This guide is intended for users running on Windows 10 or higher.
 
-* Node.js version 14.17.6 or later
-* Visual Studio Code
-* Npm Package manager version 6 or later
+The software required for this guide is:
+
+* Abobe PhotoShop v21
 
 ## Prerequisites
 
@@ -73,6 +73,25 @@ This document requires the following knowledge:
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
+## Typographical Conventions
+
+These instructions contain the following typographical conventions:
+
+| Convention | TypeFace | Examples |
+| ---------- | -------- | -------- |
+| key word/phrase | *Itallics* | *create*, *delete*, *click* |
+| Menu item/option | **Bold** | **cut**, **clone**, **brush**|
+
+
+
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-warning-100-most-used-icons-flaticons-flat-flat-icons.png" width="50"> **Warning**: This is a warning icon. These indicate important content that should be read before proceeding.
+
+
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-idea-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="50"> **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues.
+
+
+
+
 ## Conclusion
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
@@ -83,27 +102,3 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
