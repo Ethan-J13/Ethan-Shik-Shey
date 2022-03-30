@@ -60,7 +60,7 @@ These instructions contain the following typographical conventions:
 
 ## Conclusion
 
-Photoshop is one of the most famous image editors by people. Once you complete this tutorial, you can quickly combine images, refine, and add emphasis, text, layer effects using Adobe Photoshop. You will be able to get Figure B from Figure A. If you're ready, let's start from ‘step1’ step by step.
+Photoshop is one of the most famous image editors by people. Once you complete this tutorial, you can quickly combine images, refine, and add emphasis, text, layer effects using Adobe Photoshop. You will be able to create the picture below with three different images. If you're ready, let's start from ‘step1’ step by step.
 
 ## About the project
 
