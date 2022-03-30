@@ -36,7 +36,7 @@ The software required for this guide is:
 The documentation assumes the following:
 
 * Working knowledge of any version of Adobe Photoshop, preferably the CC(Creative Cloud) version 
-* you are expected to know how to load an image from your device
+* You are expected to know how to load an image from your device
 * Some familiarity with basic tools and functionality of Adobe Photoshop.
 
 If you already know how to use layers & make simple selections then this document is perfect for you.
@@ -66,14 +66,9 @@ These instructions contain the following typographical conventions:
 
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/452/external-idea-100-most-used-icons-flaticons-flat-flat-icons-2.png" width="50"> **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues.
 
-
-
-
 ## Conclusion
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
+Photoshop is one of the most famous image editors by people. Once you complete this tutorial, you can quickly combine images, refine, and add emphasis, text, layer effects using Adobe Photoshop. You will be able to get Figure B from Figure A. If you're ready, let's start from ‘step1’ step by step.
 
 ## About the project
 
