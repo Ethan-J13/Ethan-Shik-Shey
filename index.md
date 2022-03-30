@@ -6,8 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# **Problem?** :trollface:
-
 # :bookmark_tabs: Introduction
 
 Hello! The purpose of this document is to guide you on how to set up a static Node.js web application using Express.js version 4.17.2 that works for both Mac and Windows machines. We will divide the fundamentals of how the software works into smaller building blocks that form the basic structure of complex projects.
@@ -16,7 +14,7 @@ Express.js is one of the most popular Node.js back-end web application framework
 
 ---
 
-## :trollface: Intended Users
+## Intended Users
 
 Regardless of where you are in your development journey, this documentation will provide clear guidance on the basic concepts of Express.js. This guide will be particularly useful for:
 
