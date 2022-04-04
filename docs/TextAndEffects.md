@@ -15,7 +15,7 @@ With no layers selected, click the ‘Create a new group’ on the right bottom.
 
 As a result, you can see the new group called ‘Group 1’ and if you double click the name of the group, you can change the name of the group. Let’s change the name to whatever you want and press Enter. I named it “Text.”
 
-| <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group1.png" alt="group1" height="400" width="300"> | <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group2.png" alt="group2" height="400" width="300"> |
+ <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group1.png" alt="group1" height="400" width="300">  <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group2.png" alt="group2" height="400" width="300"> 
 
 ### [](#header-3)Insert Text
 
