@@ -57,7 +57,7 @@ When the Layer Style window pops up, please click or set the following in order.
 
 Then move to “Bevel & Emboss” tab, “Style: Inner Bevel” - “Technique: Chisel Hard” - “Depth: 170%” - “Direction: Up” - “Size: 10px” - “Angle: 120 degree” - “Check ‘Use Global Light’” - “Altitude: 30 degree” - “Gloss Contour: Ring Double” - “Highlight Mode: Screen and choose white as a color, Opacity: 50%” - “Shadow Mode: Multiply, and choose black as a color, Opacity: 50%” then, click OK.
 
-<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer5.png" alt="Layer5" width="670" height="800">
+<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer5.png" alt="Layer5" width="600" height="450">
 
 Boom! As you can see, the text “The” has a silver metal effect! But to make this look a little more realistic, we're going to do some extra work.
 
@@ -76,7 +76,7 @@ Click “Outer Glow” - “Blend Mode: Screen” - “Opacity: 40%” - “Nois
 Well done. We're done adding a shiny silver style to the text layer. Then, let’s add it to “Last” and “Samurai.” Don't you want to repeat the above process? We have a feature called "Copy Layer Style." Let's copy the styles applied to the “The” and “The copy” layers and paste them into “Last”, “Samurai” and “Last copy”, “Samurai copy.” In other words, copy the style of “The” layer and paste to “Last” and “Samurai”, and copy the style of “The copy” and paste to “Last copy” and “Samurai copy” layers.
 
 Right-click on the layer with the style you want to copy and click "Copy Layer Style.”
-<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer10.png" alt="Layer10" width="600" height="450">
+<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer10.png" alt="Layer10" width="670" height="800">
 
 Then, right-click on the layer you want to paste the style on and click "Paste Layer Style."
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer11.png" alt="Layer11" width="670" height="800">
