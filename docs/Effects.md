@@ -1,8 +1,3 @@
-layout: default
-title: Effects
-nav_order: 10
----
-
 # Effects
 
 ## Overview 
