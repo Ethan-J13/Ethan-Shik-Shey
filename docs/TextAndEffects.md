@@ -48,7 +48,7 @@ So, you will see the six text layers, “Samurai”, “Samurai copy”, “Last
 
 Now, let’s start with adding a layer style to the “The” layer. With the “The copy” text layer (not “The”) selected, click the “Add a layer style” ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and click “Blending option.” Or you can double click the “The” text layer to do the same thing.
 
-<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="600">
+<img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="400">
 
 When the Layer Style window pops up, please click or set the following in order. “Gradient Overlay” - “Opacity: 100%” - “Gradient: Black, White” - “Gradient: Reverse” - “Style: Reflected” - “Angle: 90 degree” - “Scale: 150%”
 
