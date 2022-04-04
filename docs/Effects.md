@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customization
+nav_order: 6
+---
+
 Overview 
 
 This section will elaborate and expand on the previous step and teach you how to use some more advanced techniques like the layer mask and one of photoshop's render options.
