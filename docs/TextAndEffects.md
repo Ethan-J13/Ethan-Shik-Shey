@@ -62,26 +62,33 @@ Then move to “Bevel & Emboss” tab, “Style: Inner Bevel” - “Technique: 
 Boom! As you can see, the text “The” has a silver metal effect! But to make this look a little more realistic, we're going to do some extra work.
 
 Select the original “The” layer (not “The copy”) and click “Add a layer style.” (or double click “The” layer)
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
 
 Go to “Stroke” in the Layer Style window, and set the following in order. “Size: 1~3px” (your preference) - “Position: Outside” - “Blend Mode: Normal” - “Opacity: 100%” - “Fill Type: Gradient” - “Gradient: Black and White” - “Style: Reflected, Align with Layer” - “Angle: 90 degree” - “Scale: 150%”
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
 
 Click “Bevel & Emboss” - “Style: Stroke Emboss” - “Technique: Chisel Hard” - “Depth: 170%” - “Direction: Up” - “Size: (greater than your font size)px or your preference” - “Angle: 120 degree” - Check “Use Global Light” - “Altitude: 30 degree” - “Gloss Contour: Ring Double, check Anti-aliased” - “Highlight Mode: Screen, White, Opacity 75%” - “Shadow Mode: Multiply, Black, Opacity 75%”
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer8.png" alt="Layer8" width="600" height="450">
 
 Click “Outer Glow” - “Blend Mode: Screen” - “Opacity: 40%” - “Noise: 0%” - Select any grey color you want - “Technique: Softer” - “Spread: 0%” - “Size: (your font size)px.” Then, click OK.
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer9.png" alt="Layer9" width="600" height="450">
 
 Well done. We're done adding a shiny silver style to the text layer. Then, let’s add it to “Last” and “Samurai.” Don't you want to repeat the above process? We have a feature called "Copy Layer Style." Let's copy the styles applied to the “The” and “The copy” layers and paste them into “Last”, “Samurai” and “Last copy”, “Samurai copy.” In other words, copy the style of “The” layer and paste to “Last” and “Samurai”, and copy the style of “The copy” and paste to “Last copy” and “Samurai copy” layers.
 
 Right-click on the layer with the style you want to copy and click "Copy Layer Style.”
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer10.png" alt="Layer10" width="670" height="800">
 
 Then, right-click on the layer you want to paste the style on and click "Paste Layer Style."
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer11.png" alt="Layer11" width="670" height="800">
 
 Nice job! You’ve done it! If you want to change the text size, you need to change the size of the original layer and the copy layer together. To select both layers, select one layer and hold down the Control key, and click another layer. And then changing the font size will apply to both layers. In the same way, you can change the position of the two layers at the same time, so please try it.
+
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer12.png" alt="Layer12" width="670" height="800">
 
 Done! As you can see the text has a shiny silver effect.
