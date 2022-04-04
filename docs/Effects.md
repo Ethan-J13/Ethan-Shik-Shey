@@ -1,7 +1,7 @@
 # Effects
 ## Overview
 --------
-This Section will elaborate and expand on the previous step and teach you how to use some more advanced techniques like the layer mask and one of Photoshop's render options.
+This section will elaborate and expand on the previous step and teach you how to use some more advanced techniques like the layer mask and one of Photoshop's render options.
 
 Your image should currently look like this. 
 ![Image 0](https://user-images.githubusercontent.com/72904003/161461580-bc37dbfc-42bb-4e0a-a1ba-02a5788451cd.png)
