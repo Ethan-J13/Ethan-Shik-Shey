@@ -63,6 +63,7 @@ When the Layer Style window pops up, please click or set the following in order.
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3.png" alt="Layer3" width="600" height="450">
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3-2.png" alt="Layer3-2" width="600" height="450">
 
+
 Then also select `Bevel & Emboss,` change the values below, and click OK.
 | Setting      | Value                                   | 
 |:-------------|:----------------------------------------|
@@ -82,6 +83,7 @@ Then also select `Bevel & Emboss,` change the values below, and click OK.
 
 Boom! As you can see, the text `The` has a silver metal effect! But to make this look a little more realistic, we will do some extra work.
 
+
 Select the original `The` layer (NOT `The copy`) and click `Add a layer style` (or double click `The` layer)
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
@@ -100,6 +102,7 @@ Select `Stroke` in the Layer Style window, and set the following in order.
 | `Scale`        | 150%                                    |
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
+
 
 Also, select `Bevel & Emboss` and change the values.
 | Setting      | Value                                   | 
