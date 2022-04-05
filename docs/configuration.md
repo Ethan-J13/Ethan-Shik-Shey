@@ -5,7 +5,7 @@
 2. *Right click* on the "building.png" file, hover over **Open With**, and select PhotoShop
     <img width="435" alt="building open with" src="https://user-images.githubusercontent.com/90651225/161665716-8cac88c3-1b42-421b-a773-46d924a2dfc3.png">  
   
-  <table><tr style="background-color: #90EE90;"><td>Note:</td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click on it</i>.</td></tr></table>  
+  <table><tr style="background-color: #90EE90;"><td><img src="https://cdn-icons.flaticon.com/png/512/4201/premium/4201973.png?token=exp=1648655378~hmac=17eecf62b7e217cd564bd864a46cc91e" width="75"></td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click on it</i>.</td></tr></table>  
   
 3. Rename the layer you just created to “Background”
 4. Duplicate this layer
