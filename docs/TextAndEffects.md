@@ -55,7 +55,7 @@ When the Layer Style window pops up, please click or set the following in order.
 |:-------------|:----------------------------------------|
 | `Blend Mode`   | Normal                                  |
 | `Opacity`      | 100%                                    |
-| `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="115" height="17"> )      |
+| `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="100" height="16"> )      |
 | `Style`        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="17"> )|
 | `Angle`        | 90 degree                               |
 | `Scale`        | 150%                                    |
