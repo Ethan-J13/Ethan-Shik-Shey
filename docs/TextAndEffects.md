@@ -55,7 +55,7 @@ When the Layer Style window pops up, please click or set the following in order.
 |:-------------|:----------------------------------------|
 | `Blend Mode`   | Normal                                  |
 | `Opacity`      | 100%                                    |
-| `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="120" height="15"> )      |
+| `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="115" height="17"> )      |
 | `Style`        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="17"> )|
 | `Angle`        | 90 degree                               |
 | `Scale`        | 150%                                    |
@@ -72,7 +72,7 @@ Then also select `Bevel & Emboss,` change the values below, and click OK.
 | `Direction`    | Up                                      |
 | `Size`         | 10px                                    |
 | `Soften`       | 0px                                     |
-| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="15"> )|
+| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="17"> )|
 | `Altitude`     | 30 degree                               |
 | `Gloss Contour`| Ring Double                             |
 | `Highlight Mode` | Screen, White, Opacity: 50%           |
@@ -110,9 +110,9 @@ Also, select `Bevel & Emboss` and change the values.
 | `Direction`    | Up                                      |
 | `Size`         | Greater than your font size             |
 | `Soften`       | 0px                                     |
-| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="15"> )|
+| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="17"> )|
 | `Altitude`     | 30 degree                               |
-| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="140" height="15"> )  |
+| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="145" height="17"> )  |
 | `Highlight Mode` | Screen, White, Opacity: 75%           |
 | `Shadow Mode`  | Multiply, Black, Opacity: 75%           |
 
