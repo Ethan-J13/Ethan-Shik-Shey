@@ -5,10 +5,9 @@ This section will elaborate and expand on the previous step and teach you how to
 Your image should currently look like this. 
 ![Image 0](https://user-images.githubusercontent.com/72904003/161461580-bc37dbfc-42bb-4e0a-a1ba-02a5788451cd.png)
 
-If it doesn't, try looking back at the previous steps and see what you may have missed.
---------
-Click on the “Sword Fight” layer
+If it doesn't, try looking back at the previous step to see what you may have missed.
 
+Click on the “Sword Fight” layer 
 ![Image 1](https://user-images.githubusercontent.com/72904003/161461598-06907edb-0a04-4d50-9089-24cb8720be6e.png)
 
 PICTURE. 
