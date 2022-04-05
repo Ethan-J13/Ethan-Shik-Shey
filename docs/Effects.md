@@ -8,6 +8,7 @@ Your image should currently look like this.
 If it doesn't, try looking back at the previous step to see what you may have missed.
 
 Click on the “Sword Fight” layer 
+
 ![Image 1](https://user-images.githubusercontent.com/72904003/161461598-06907edb-0a04-4d50-9089-24cb8720be6e.png)
 
 PICTURE. 
