@@ -51,8 +51,9 @@ Now, let's start with adding a layer style to the `The` layer. With the `The cop
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="400">
 
 When the Layer Style window pops up, please click or set the following in order. Select the `Gradient Overlay` and change the setting values.
+
 | Setting      | Value                                   | 
-|:---:|:---:|
+|:---|:---|
 | `Blend Mode`   | Normal                                  |
 | `Opacity`      | 100%                                    |
 | `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="100" height="16"> )      |
@@ -65,8 +66,9 @@ When the Layer Style window pops up, please click or set the following in order.
 
 
 Then also select `Bevel & Emboss,` change the values below, and click OK.
+
 | Setting      | Value                                   | 
-|:---:|:---:|
+|:---|:---|
 | `Style`        | Inner Bevel                             |
 | `Technique`    | Chisel Hard                             |
 | `Depth`        | 170%                                    |
@@ -89,8 +91,9 @@ Select the original `The` layer (NOT `The copy`) and click `Add a layer style` (
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
 
 Select `Stroke` in the Layer Style window, and set the following in order.
+
 | Setting      | Value                                   | 
-|:---:|:---:|
+|:---|:---|
 | `Size`         | 2px (or 1 ~ 4px)                        |
 | `Position`     | Outside                                 |
 | `Blend Mode`   | Normal                                  |
@@ -105,8 +108,9 @@ Select `Stroke` in the Layer Style window, and set the following in order.
 
 
 Also, select `Bevel & Emboss` and change the values.
+
 | Setting      | Value                                   | 
-|:---:|:---:|
+|:---|:---|
 | `Style`        | Stroke Emboss                           |
 | `Technique`    | Chisel Hard                             |
 | `Depth`        | 170%                                    |
