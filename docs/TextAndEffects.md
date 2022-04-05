@@ -53,12 +53,12 @@ Now, let's start with adding a layer style to the `The` layer. With the `The cop
 When the Layer Style window pops up, please click or set the following in order. Select the `Gradient Overlay` and change the setting values.
 | Setting      | Value                                   | 
 |:-------------|:----------------------------------------|
-| Blend Mode   | Normal                                  |
-| Opacity      | 100%                                    |
-| Gradient     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="160" height="20">)      |
-| Style        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="20">)|
-| Angle        | 90 degree                               |
-| Scale        | 150%                                    |
+| `Blend Mode`   | Normal                                  |
+| `Opacity`      | 100%                                    |
+| `Gradient`     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="120" height="15"> )      |
+| `Style`        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="17"> )|
+| `Angle`        | 90 degree                               |
+| `Scale`        | 150%                                    |
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3.png" alt="Layer3" width="600" height="450">
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3-2.png" alt="Layer3-2" width="600" height="450">
@@ -66,17 +66,17 @@ When the Layer Style window pops up, please click or set the following in order.
 Then also select `Bevel & Emboss,` change the values below, and click OK.
 | Setting      | Value                                   | 
 |:-------------|:----------------------------------------|
-| Style        | Inner Bevel                             |
-| Technique    | Chisel Hard                             |
-| Depth        | 170%                                    |
-| Direction    | Up                                      |
-| Size         | 10px                                    |
-| Soften       | 0px                                     |
-| Angle        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="20">)|
-| Altitude     | 30 degree                               |
-| Gloss Contour| Ring Double                             |
-| Highlight Mode | Screen, White, Opacity: 50%           |
-| Shadow Mode  | Multiply, Black, Opacity: 50%           |
+| `Style`        | Inner Bevel                             |
+| `Technique`    | Chisel Hard                             |
+| `Depth`        | 170%                                    |
+| `Direction`    | Up                                      |
+| `Size`         | 10px                                    |
+| `Soften`       | 0px                                     |
+| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="15"> )|
+| `Altitude`     | 30 degree                               |
+| `Gloss Contour`| Ring Double                             |
+| `Highlight Mode` | Screen, White, Opacity: 50%           |
+| `Shadow Mode`  | Multiply, Black, Opacity: 50%           |
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer5.png" alt="Layer5" width="600" height="450">
 
@@ -89,15 +89,15 @@ Select the original `The` layer (NOT `The copy`) and click `Add a layer style` (
 Select `Stroke` in the Layer Style window, and set the following in order.
 | Setting      | Value                                   | 
 |:-------------|:----------------------------------------|
-| Size         | 2px (or 1 ~ 4px)                        |
-| Position     | Outside                                 |
-| Blend Mode   | Normal                                  |
-| Opacity      | 100%                                    |
-| Fill Type    | Gradient                                |
-| Gradient     | Black, White (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Reverse.png" alt="Reverse" width="160" height="20">)      |
-| Style        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="20">) |
-| Angle        | 90 degree                               |
-| Scale        | 150%                                    |
+| `Size`         | 2px (or 1 ~ 4px)                        |
+| `Position`     | Outside                                 |
+| `Blend Mode`   | Normal                                  |
+| `Opacity`      | 100%                                    |
+| `Fill Type`    | Gradient                                |
+| `Gradient`     | Black, White                            |
+| `Style`        | Reflected (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Align with Layer.png" alt="Align with Layer" width="160" height="17"> ) |
+| `Angle`        | 90 degree                               |
+| `Scale`        | 150%                                    |
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
 
@@ -110,9 +110,9 @@ Also, select `Bevel & Emboss` and change the values.
 | `Direction`    | Up                                      |
 | `Size`         | Greater than your font size             |
 | `Soften`       | 0px                                     |
-| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="20">)|
+| `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="15"> )|
 | `Altitude`     | 30 degree                               |
-| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="160" height="20">)  |
+| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="140" height="15"> )  |
 | `Highlight Mode` | Screen, White, Opacity: 75%           |
 | `Shadow Mode`  | Multiply, Black, Opacity: 75%           |
 
