@@ -5,7 +5,8 @@
 2. *Right click* on the "building.png" file, hover over **Open With**, and select PhotoShop
     <img width="435" alt="building open with" src="https://user-images.githubusercontent.com/90651225/161665716-8cac88c3-1b42-421b-a773-46d924a2dfc3.png">  
   
-  <table style="background-color: #90EE90;"><tr><td>![info+information+icon-1320183464162744403](https://user-images.githubusercontent.com/90651225/161668541-c25e88bf-8425-4d61-a9d1-186387a8e311.png)</td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click on it</i>.</td></tr></table>  
+  <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
+</td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click</i> on it.</td></tr></table>  
   
 3. Rename the layer you just created to “Background”
 4. Duplicate this layer
@@ -24,3 +25,4 @@ INFO: If you are having trouble centering the image, you can manually input the 
 10. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
 11. Set the opacity of the swordfight layer to 50%
 12. Ensure your layers are correct, at this point your layers should look like this:
+    
