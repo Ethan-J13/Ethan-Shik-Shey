@@ -112,7 +112,7 @@ Also, select `Bevel & Emboss` and change the values.
 | `Soften`       | 0px                                     |
 | `Angle`        | 120 degree (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Use Global Light.png" alt="Use Global Light" width="160" height="17"> )|
 | `Altitude`     | 30 degree                               |
-| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="145" height="17"> )  |
+| `Gloss Contour`| Ring Double (Also, <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Anti aliased.png" alt="Anti aliased" width="145" height="19"> )  |
 | `Highlight Mode` | Screen, White, Opacity: 75%           |
 | `Shadow Mode`  | Multiply, Black, Opacity: 75%           |
 
