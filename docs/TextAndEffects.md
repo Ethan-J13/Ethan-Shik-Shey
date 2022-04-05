@@ -52,6 +52,7 @@ Now, let's start with adding a layer style to the <The> layer. With the <The cop
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="400">
 
 When the Layer Style window pops up, please click or set the following in order. Select the “Gradient Overlay” and change the setting values.
+|:-------------|:----------------------------------------|
 | Blend Mode   | Normal                                  |
 | Opacity      | 100%                                    |
 | Gradient     | Black, White (Also, - [x] Reverse)      |
@@ -63,6 +64,7 @@ When the Layer Style window pops up, please click or set the following in order.
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3-2.png" alt="Layer3-2" width="600" height="450">
 
 Then also select “Bevel & Emboss,” change the values below, and click OK.
+|:-------------|:----------------------------------------|
 | Style        | Inner Bevel                             |
 | Technique    | Chisel Hard                             |
 | Depth        | 170%                                    |
@@ -84,6 +86,7 @@ Select the original <The> layer (NOT <The copy>) and click <Add a layer style> (
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
 
 Select “Stroke” in the Layer Style window, and set the following in order.
+|:-------------|:----------------------------------------|
 | Size         | 2px (or 1 ~ 4px)                        |
 | Position     | Outside                                 |
 | Blend Mode   | Normal                                  |
@@ -97,6 +100,7 @@ Select “Stroke” in the Layer Style window, and set the following in order.
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
 
 Also, select “Bevel & Emboss” and change the values.
+|:-------------|:----------------------------------------|
 | Style        | Stroke Emboss                           |
 | Technique    | Chisel Hard                             |
 | Depth        | 170%                                    |
