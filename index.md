@@ -54,7 +54,7 @@ These instructions contain the following typographical conventions:
 
 | Icon  | Purpose  |
 | --- | --- |
-| <img src="https://cdn-icons.flaticon.com/png/512/4201/premium/4201973.png?token=exp=1648655378~hmac=17eecf62b7e217cd564bd864a46cc91e" width="75"> | **Warning**: This is a warning icon. These indicate important content that should be read before proceeding. |
+| <img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"> | **Warning**: This is a warning icon. These indicate important content that should be read before proceeding. |
 | <img src="https://cdn-icons.flaticon.com/png/512/5683/premium/5683325.png?token=exp=1648657412~hmac=d455619e2a46b71057b651153554f8cd" width="75"> | **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues. |
 
 
