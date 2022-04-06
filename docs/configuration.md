@@ -53,8 +53,7 @@ X = 112,
 Y = -220
 <br/>
     
-<table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td>
-<td> If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.</td></tr></table><br />
+    <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td><td> If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.</td></tr></table><br />
 
 &nbsp;  
 10. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
