@@ -29,7 +29,7 @@ Let's create the text `Last` and `Samurai` in the same way. By the way, Please s
 | Font | |
 |:---|:---|
 | Style | `Times New Roman` |
-| Size  | `75`pt for the `Last` and `Samurai` and `35`pt for the `The` |
+| Size  | Your preference |
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Text3.png" alt="text3" width="670" height="800">
 
