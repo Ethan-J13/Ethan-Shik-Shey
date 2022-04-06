@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🔠Text Effects
+title: 🔠 Text Effects
 nav_order: 4
 ---
 
