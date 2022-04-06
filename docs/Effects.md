@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Text and Layer effects
+title: Layer Effects
 nav_order: 3
 ---
 
