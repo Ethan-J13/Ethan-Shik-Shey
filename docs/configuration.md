@@ -13,7 +13,8 @@ To understand the new menus, items, and options these instructions highlight, we
     <br/>
     <img width="435" alt="building open with" src="https://user-images.githubusercontent.com/90651225/161665716-8cac88c3-1b42-421b-a773-46d924a2dfc3.png">  
     
-    <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click</i> on it.</td></tr></table><br />
+    If PhotoShop does not show automatically, *click* on **Choose another app** and scroll down until PhotoShop appears. *Click* on it.
+    
 3. Rename the layer you just created to “Background”  
     
 &nbsp;  
@@ -33,11 +34,9 @@ To understand the new menus, items, and options these instructions highlight, we
     This menu should appear:
     <br/>
     <img style="margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/90651225/161897476-f3413db5-7df4-4b79-af0e-b1c7448c6171.png">
-    <br/>
-    <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
-</td><td>This menu allows you to set the brightness and contrast of a single layer.</td></tr></table>  
+    <br/>  
     
-Turn the brightness to the max at 150. Close the menu.  
+    Turn the brightness to the max at 150. Close the menu.  
     
 &nbsp;  
 8. While still selected on the “Multiply” layer, **click** on the *blending mode* menu. Select *Multiply*.  
@@ -45,15 +44,15 @@ Turn the brightness to the max at 150. Close the menu.
 <img src="https://user-images.githubusercontent.com/90651225/161898705-c3ea9b95-2cb7-4619-8cc2-949dafe25979.png">
 
 <br/>
-<table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td>
-<td> This menu is small and sometimes hard to see. It is located on the right-hand side, under the layer menu. The default item will be *Normal*. </td></tr></table><br />  
+    This menu is small and sometimes hard to see. It is located on the right-hand side, under the layer menu. The default item will be *Normal*.  
     
-9. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are: 
-X = 112, 
+9. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are:  
+    
+X = 112  
+    
 Y = -220
-<br/>
     
-    <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td><td> If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.</td></tr></table><br />
+    If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.
 
 &nbsp;  
 10. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
