@@ -26,15 +26,20 @@ To understand the new menus, items, and options these instructions highlight, we
 &nbsp;  
 6. Select “Multiply” and *click* **Image** on the top bar.  
     
+<img src="https://user-images.githubusercontent.com/90651225/161897158-f10c99df-b6d1-4f25-a418-d3e03311d381.gif">
+
 &nbsp;  
 7. Hover over **Adjustments** and select **Brightness and contrast**  
     
 &nbsp;  
 This menu should appear:  
     
+    <img style="margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/90651225/161897476-f3413db5-7df4-4b79-af0e-b1c7448c6171.png">
+
   <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
 </td><td>This menu allows you to set the brightness and contrast of a single layer.</td></tr></table>  
-    Turn the brightness to the max at 150. Close the menu.  
+    
+Turn the brightness to the max at 150. Close the menu.  
     
 8. While still selected on the “Multiply” layer, **click** on the *blending mode* menu.
 INFO: This menu is small and sometimes hard to see. It is located on the right-hand side, under the layer menu. The default item will be *Normal*. 
