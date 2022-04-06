@@ -38,19 +38,22 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
     ![Image 5](https://user-images.githubusercontent.com/72904003/161461634-7c0fdcfe-f514-4f25-9655-5cf566a7f6fa.png)
 
- Create a new layer called “Lens Flare” and put it in between the “Light Glare” and “Top Black” layers.
-Go to Edit > fill > black then press ok.
+## [](#header-2)Lens Flare
+1. Create a new layer called “Lens Flare” and put it in between the “Light Glare” and “Top Black” layers.
+2. Go to Edit > fill > black then press ok.
 
     ![Image 6](https://user-images.githubusercontent.com/72904003/161461642-aabf2f56-b200-43e8-9790-d0f732b1767e.png)
 
-Change the blend mode on the layer to screen 
+3. Change the blend mode on the layer to screen 
 
     ![Image 7](https://user-images.githubusercontent.com/72904003/161461659-c65ae37e-f0f0-4d59-ac41-7e7d6d420e40.png)
 
-Go to filter > render > lens flare > 100% brightness and 105mm then position the lens flare with your mouse as in the image. 
+4. Go to filter > render > lens flare > 100% brightness and 105mm then position the lens flare with your mouse as in the image. 
 
     ![Image 8](https://user-images.githubusercontent.com/72904003/161461673-08bb8322-edb7-42cd-ad92-80e6025e86f3.png)
 
-Press ctrl + t to resize the lens flare and to move it over the sword as shown in the image.
+5. Press ctrl + t to resize the lens flare and to move it over the sword as shown in the image.
 
     ![Image 9](https://user-images.githubusercontent.com/72904003/161461679-0d083ff8-54e6-475b-a395-9a36f015fc38.png)
+    
+    
