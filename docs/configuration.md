@@ -30,24 +30,39 @@ To understand the new menus, items, and options these instructions highlight, we
 
 &nbsp;  
 7. Hover over **Adjustments** and select **Brightness and contrast**  
-    
-&nbsp;  
-This menu should appear:  
-    
+    <br/>
+    This menu should appear:
+    <br/>
     <img style="margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/90651225/161897476-f3413db5-7df4-4b79-af0e-b1c7448c6171.png">
-
-  <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
+    <br/>
+    <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
 </td><td>This menu allows you to set the brightness and contrast of a single layer.</td></tr></table>  
     
 Turn the brightness to the max at 150. Close the menu.  
     
-8. While still selected on the “Multiply” layer, **click** on the *blending mode* menu.
-INFO: This menu is small and sometimes hard to see. It is located on the right-hand side, under the layer menu. The default item will be *Normal*. 
-9. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are:
-X = 112
+&nbsp;  
+8. While still selected on the “Multiply” layer, **click** on the *blending mode* menu. Select *Multiply*.  
+    
+<img src="https://user-images.githubusercontent.com/90651225/161898705-c3ea9b95-2cb7-4619-8cc2-949dafe25979.png">
+
+<br/>
+<table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td>
+<td> This menu is small and sometimes hard to see. It is located on the right-hand side, under the layer menu. The default item will be *Normal*. </td></tr></table><br />  
+    
+9. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are: 
+X = 112, 
 Y = -220
-INFO: If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.
+<br/>
+    
+<table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td>
+<td> If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.</td></tr></table><br />
+
+&nbsp;  
 10. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
+    
+&nbsp;  
 11. Set the opacity of the swordfight layer to 50%
+    
+&nbsp;  
 12. Ensure your layers are correct, at this point your layers should look like this:
     
