@@ -24,7 +24,7 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
 ## [](#header-2)Light Glare
 1. _Create_ a new layer and call it “Light Glare”, move it to the top of the hierarchy.
-2. _Click_ on the layer you just created, and use a white **brush** of size 500, hardness 0%, opacity 50%. _Click_ once over the samurai in between his cheek and sword hand as shown in the image 
+2. _Click_ on the layer you just created and use a white **brush** of size 500, hardness 0%, opacity 50%. _Click_ once over the samurai in between his cheek and sword hand as shown in the image 
  
     ![Image 3](https://user-images.githubusercontent.com/72904003/161461621-45980792-2c12-4203-aed0-2c681ff1c335.png)
 
