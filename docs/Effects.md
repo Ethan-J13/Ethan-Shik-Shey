@@ -18,7 +18,7 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
 ![Image 1](https://user-images.githubusercontent.com/72904003/161461598-06907edb-0a04-4d50-9089-24cb8720be6e.png)
 
-Layer masks are used for non-destructive editing which means that the edits that you make to a layer mask can always be undone. This is unlike the eraser tool which is permanent once the file has been closed since this wipes the history.
+:book: Layer masks are used for non-destructive editing which means that the edits that you make to a layer mask can always          be undone. This is unlike the eraser tool which is permanent once the file has been closed since this wipes the              history.
 
 2. While on the layer mask use a large, hardness 0%, black brush on the top of the sword fight image. This should make the edge rougher and make it blend in more smoothly 
 
