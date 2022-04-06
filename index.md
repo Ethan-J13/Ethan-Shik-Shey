@@ -43,9 +43,9 @@ If you already know how to use layers & make simple selections then this documen
 
 The main sections of the documentation are summarized below:
 
-- **[Combining Images]**
-- **[Refining and Adding Emphasis]**
-- **[Text and Layer Effects]**
+- **[Project Set-Up](https://ethan-j13.github.io/Ethan-Shik-Shey/docs/configuration/)**
+- **[Layer Effects](https://ethan-j13.github.io/Ethan-Shik-Shey/docs/Effects/)**
+- **[Text Effects](https://ethan-j13.github.io/Ethan-Shik-Shey/docs/TextAndEffects/)**
 
 
 ## Typographical Conventions
@@ -70,7 +70,7 @@ Photoshop is one of the most famous image editors by people. Once you complete t
 
 ![target image](https://github.com/Ethan-J13/Ethan-Shik-Shey/blob/gh-pages/assets/images/Samurai.png?raw=true)
 
-If you're ready, let's start from `Project Set-UP` step by step.
+If you're ready, let's start from [Project Set-Up](https://ethan-j13.github.io/Ethan-Shik-Shey/docs/configuration/)
 
 ## About the project
 
