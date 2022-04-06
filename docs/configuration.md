@@ -1,3 +1,8 @@
+---
+title: Text and Layer effects
+nav_order: 2
+---
+
 # Project Set-up  
 
 ## Overview
