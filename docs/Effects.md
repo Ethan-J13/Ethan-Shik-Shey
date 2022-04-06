@@ -56,4 +56,6 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
     ![Image 9](https://user-images.githubusercontent.com/72904003/161461679-0d083ff8-54e6-475b-a395-9a36f015fc38.png)
     
+    Now that we have added some special effects onto the image we will move onto the next step: Text Effects
+    
     
