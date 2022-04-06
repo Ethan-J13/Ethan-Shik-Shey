@@ -13,18 +13,19 @@ Your image should currently look like this.
 
 If it doesn't, try looking back at the previous step to see what you may have missed.
 
-Click on the “Sword Fight” layer, then click on the icon below the layers that looks like a rectangle with a circle in the middle. this will attach a layer mask onto the currently selected layer.
+## [](#header-2)Layer Mask
+1. Click on the “Sword Fight” layer, then click on the icon below the layers that looks like a rectangle with a circle in the middle. this will attach a layer mask onto the currently selected layer.
 
 ![Image 1](https://user-images.githubusercontent.com/72904003/161461598-06907edb-0a04-4d50-9089-24cb8720be6e.png)
 
 Layer masks are used for non-destructive editing which means that the edits that you make to a layer mask can always be undone. This is unlike the eraser tool which is permanent once the file has been closed since this wipes the history.
 
-While on the layer mask use a large, hardness 0%, black brush on the top of the sword fight image. This should make the edge rougher and make it blend in more smoothly 
+2. While on the layer mask use a large, hardness 0%, black brush on the top of the sword fight image. This should make the edge rougher and make it blend in more smoothly 
 
 ![Image 2](https://user-images.githubusercontent.com/72904003/161461607-9f2298c8-122c-47df-be2b-1568e2b8e4de.png)
 
 Make a new layer and call it “Light Glare”, move it to the top of the hierarchy.
- While on the layer you just created, use a white brush of size 500, hardness 0%, opacity 50%. Click once over the samurai in between his cheek and sword hand as shown in the image 
+While on the layer you just created, use a white brush of size 500, hardness 0%, opacity 50%. Click once over the samurai in between his cheek and sword hand as shown in the image 
  
 ![Image 3](https://user-images.githubusercontent.com/72904003/161461621-45980792-2c12-4203-aed0-2c681ff1c335.png)
 
