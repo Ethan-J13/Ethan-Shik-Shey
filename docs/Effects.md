@@ -4,7 +4,7 @@ title: Layer Effects
 nav_order: 3
 ---
 
-# [](#header-1)🔠 Layer Effects
+# [](#header-1):sparkles: Layer Effects
 
 This section will elaborate and expand on the previous step and teach you how to use some more advanced techniques like the layer mask and one of Photoshop's render options. 
 
