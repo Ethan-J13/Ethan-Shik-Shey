@@ -2,7 +2,7 @@
 
 ## Overview
 <hr>
-<img align= "right" width ="150" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
+<img align= "right" width ="150" style="padding-left: 10px;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
 <p style="padding-top: 40px;">
 To understand the new menus, items, and options these instructions highlight, we will be creating the image shown to the right. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness in 2 separate ways, and how to structure your layers.
 </p>
