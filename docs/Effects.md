@@ -1,3 +1,9 @@
+---
+layout: default
+title: Text and Layer effects
+nav_order: 3
+---
+
 # Effects
 --------
 This section will elaborate and expand on the previous step and teach you how to use some more advanced techniques like the layer mask and one of Photoshop's render options.
