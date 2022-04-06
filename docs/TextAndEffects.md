@@ -26,6 +26,8 @@ Now, let's insert normal text into the photo. Click the `Horizontal Type Tool` (
 
 Let's create the text `Last` and `Samurai` in the same way. By the way, Please select the font size and style according to below.
 
+| Font |
+|:---|:---|
 | Style | `Times New Roman` |
 | Size  | `75`pt for the `Last` and `Samurai` and `35`pt for the `The` |
 
