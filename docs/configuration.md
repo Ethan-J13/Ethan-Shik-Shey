@@ -1,9 +1,10 @@
 ---
-title: :building_construction: Project Set-Up
+layout: default
+title: :building_construction:Project Set-Up
 nav_order: 2
 ---
 
-# :building_construction: Project Set-up  
+# :building_construction: Project Set-Up  
 
 ## Overview
 <img align= "right" width ="150" style="padding-left: 20px;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
