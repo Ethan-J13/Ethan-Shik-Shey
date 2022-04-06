@@ -1,5 +1,4 @@
 ---
-layout: default
 title: :building_construction: Project Set-Up
 nav_order: 2
 ---
