@@ -1,8 +1,11 @@
-## Project Set-up
+# Project Set-up  
+
+## Overview
+To understand the new menus, items, and options these instructions highlight, we will be creating the image shown on the right. <img style="float: right;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
 
 
 1. Download <a href="https://drive.google.com/drive/folders/1faK0iXuR9faH_1cJNtLx3uBfQIA4kwte?usp=sharing">these images<a> and navigate to where you saved them.
-2. *Right click* on the "building.png" file, hover over **Open With**, and select PhotoShop
+2. *Right click* on the "building.png" file, hover over **Open With**, and select **Adobe PhotoShop 2022**
     <img width="435" alt="building open with" src="https://user-images.githubusercontent.com/90651225/161665716-8cac88c3-1b42-421b-a773-46d924a2dfc3.png">  
   
   <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
