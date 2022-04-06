@@ -1,5 +1,5 @@
 ---
-title: Text and Layer effects
+title: Project Set-Up
 nav_order: 2
 ---
 
