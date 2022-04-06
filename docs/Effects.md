@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layer Effects
+title: :sparkles:Layer Effects
 nav_order: 3
 ---
 
