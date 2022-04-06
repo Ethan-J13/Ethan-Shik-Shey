@@ -3,7 +3,7 @@
 ## Overview
 <img align= "right" width ="150" style="padding-left: 20px;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
 <p style="padding-top: 27px;">
-To understand the new menus, items, and options these instructions highlight, we will be creating the image shown to the right. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness in 2 separate ways, and how to structure your layers.
+To understand the new menus, items, and options these instructions highlight, we will be creating the image shown to the right. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness in 2 different ways, and how to structure your layers.
 </p>
 <hr>
 
@@ -12,8 +12,8 @@ To understand the new menus, items, and options these instructions highlight, we
 2. *Right click* on the "building.png" file, hover over **Open With**, and select **Adobe PhotoShop 2022**
     <img width="435" alt="building open with" src="https://user-images.githubusercontent.com/90651225/161665716-8cac88c3-1b42-421b-a773-46d924a2dfc3.png">  
   
-  <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
-</td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click</i> on it.</td></tr></table>  
+  <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"></td>
+<td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click</i> on it.</td></tr></table>  
     
 <br />  
     
