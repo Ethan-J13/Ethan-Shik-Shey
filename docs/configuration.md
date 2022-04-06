@@ -15,16 +15,23 @@ To understand the new menus, items, and options these instructions highlight, we
   
   <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
 </td><td>If PhotoShop does not show automatically, <i>click</i> on <b>Choose another app</b> and scroll down until PhotoShop appears. <i>Click</i> on it.</td></tr></table>  
-  
+    
+<br />  
+    
 3. Rename the layer you just created to “Background”  
     
+    &nbsp;
 4. Duplicate this layer  
     
+    &nbsp;
 5. Rename the duplicated layer to “Multiply”  
     
+    &nbsp;
 6. Select “Multiply” and *click* **Image** on the top bar.  
     
+    &nbsp;
 7. Hover over **Adjustments** and select **Brightness and contrast**  
+    &nbsp;
 This menu should appear:  
     
   <table style="background-color: #90EE90;"><tr><td><img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png">
