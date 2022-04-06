@@ -1,3 +1,9 @@
+---
+layout: default
+title: Text and Layer effects
+nav_order: 1
+---
+
 # :bookmark_tabs: Introduction
 
 Hello!
