@@ -55,9 +55,10 @@ To understand the new menus, items, and options these instructions highlight, we
     
 1. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are X = 112, Y = -220  
     
-    If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.
-
-
+    If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.  
+    
+    <img src="https://user-images.githubusercontent.com/90651225/162069170-ead54cd3-1d52-4556-b54c-102419589460.gif">
+    
 2. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
     
  
@@ -66,3 +67,5 @@ To understand the new menus, items, and options these instructions highlight, we
 
 4. Ensure your layers are correct, at this point your layers should look like this:
     
+## Conclusion
+
