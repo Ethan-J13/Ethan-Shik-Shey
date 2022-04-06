@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🔠 Text Effects
-nav_order: 4
+nav_order: 9
 ---
 
 # [](#header-1)🔠 Text Effects
