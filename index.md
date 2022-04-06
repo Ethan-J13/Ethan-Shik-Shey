@@ -54,7 +54,7 @@ These instructions contain the following typographical conventions:
 
 | Convention | TypeFace | Examples |
 | ---------- | -------- | -------- |
-| key word/phrase | *Itallics* | *create*, *delete*, *click* |
+| key word/phrase | *Italics* | *create*, *delete*, *click* |
 | Menu item/option | **Bold** | **cut**, **clone**, **brush**|
 
 
