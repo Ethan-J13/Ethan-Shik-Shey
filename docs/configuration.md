@@ -5,7 +5,6 @@
 <p style="padding-top: 27px;">
 To understand the new menus, items, and options these instructions highlight, we will be creating the image shown to the right. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness in 2 separate ways, and how to structure your layers.
 </p>
-<br/>
 <hr>
 
 1. Download <a href="https://drive.google.com/drive/folders/1faK0iXuR9faH_1cJNtLx3uBfQIA4kwte?usp=sharing">these images<a> and navigate to where you saved them.  
