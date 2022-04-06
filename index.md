@@ -57,13 +57,6 @@ These instructions contain the following typographical conventions:
 | key word/phrase | *Italics* | *create*, *delete*, *click* |
 | Menu item/option | **Bold** | **cut**, **clone**, **brush**|
 
-
-| Icon  | Purpose  |
-| --- | --- |
-| <img width="75" alt="info" src="https://user-images.githubusercontent.com/90651225/161668731-e3d68cca-1331-4054-97d2-f785d908dc2f.png"> | **Warning**: This is a warning icon. These indicate important content that should be read before proceeding. |
-| <img src="https://cdn-icons.flaticon.com/png/512/5683/premium/5683325.png?token=exp=1648657412~hmac=d455619e2a46b71057b651153554f8cd" width="75"> | **Note**: This is a note icon. These indicate additional information, tips and fixes to common issues. |
-
-
 ## Conclusion
 
 Photoshop is one of the most famous image editors by people. Once you complete this tutorial, you can quickly combine images, refine, and add emphasis, text, layer effects using Adobe Photoshop. You will be able to create the picture below with three different images.
@@ -71,8 +64,3 @@ Photoshop is one of the most famous image editors by people. Once you complete t
 ![target image](https://github.com/Ethan-J13/Ethan-Shik-Shey/blob/gh-pages/assets/images/Samurai.png?raw=true)
 
 If you're ready, let's start from [Project Set-Up](https://ethan-j13.github.io/Ethan-Shik-Shey/docs/configuration/)
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
