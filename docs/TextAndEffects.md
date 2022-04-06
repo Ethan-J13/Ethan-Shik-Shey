@@ -4,7 +4,7 @@ title: Text Effects
 nav_order: 4
 ---
 
-# [](#header-1)🔠 Text and Layer Effects
+# [](#header-1)🔠 Text Effects
 
 This step will insert text into the photo and add a silver text effect. First of all, it is simple to add normal text into a picture. But, before inserting actual text, let's try to learn how to group layers, and it makes us control text layers independently. 
 
