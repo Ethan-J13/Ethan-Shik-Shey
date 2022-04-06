@@ -1,7 +1,7 @@
 # Project Set-up  
 
 ## Overview
-To understand the new menus, items, and options these instructions highlight, we will be creating the image shown on the right. <img style="float: right;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
+To understand the new menus, items, and options these instructions highlight, we will be creating the image shown on the right. <img align= "right" width ="150" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
 
 
 1. Download <a href="https://drive.google.com/drive/folders/1faK0iXuR9faH_1cJNtLx3uBfQIA4kwte?usp=sharing">these images<a> and navigate to where you saved them.
