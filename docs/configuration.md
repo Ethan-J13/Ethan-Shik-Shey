@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Overview
 <img align= "right" width ="150" style="padding-left: 20px;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
-<p style="padding-top: 27px;">
+<p style="padding-top: 20px;">
 To understand the new menus, items, and options these instructions highlight, we will be creating the image shown to the right. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness in 2 different ways, and how to structure your layers.
 </p>
 <hr>
@@ -28,7 +28,7 @@ To understand the new menus, items, and options these instructions highlight, we
 
 ## Creating A Multiply layer  
     
-1. Duplicate this layer  
+1. Duplicate the "Multiply" layer  
 
 2. Rename the duplicated layer to “Multiply”  
 
@@ -53,19 +53,46 @@ To understand the new menus, items, and options these instructions highlight, we
 
 ## Adding New Layers  
     
-1. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are X = 112, Y = -220  
+1. Drag in the Samurai.jpg image you downloaded earlier. Center this image, for our version, the points are X = 112, Y = -220.  
     
     If you are having trouble centering the image, you can manually input the values. While the Samurai image is selected, find the *transform* menu under *properties* on the right side. From here you can adjust the X/Y coordinates manually.  
     
     <img src="https://user-images.githubusercontent.com/90651225/162069170-ead54cd3-1d52-4556-b54c-102419589460.gif">
     
-2. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image
+2. Drag in the SwordFight.jpg image you downloaded earlier. Set this photo at the bottom of the image. For our version, the points are X = 0, Y = 1572.
     
  
-3. Set the opacity of the swordfight layer to 50%
+3. Set the opacity of the Sword Fight layer to 50%
     
 
-4. Ensure your layers are correct, at this point your layers should look like this:
+## Making An Image more visible - Low opacity Highlighting
     
+When we have lower opacity layers, we may find that they are not visible enough. Increasing the opacity back up may help in some scenarios, however, this defeats the purpose of lowering the opacity in the first place.  
+    
+To combat this, we can create backdrops using the paint tool.
+    
+1. Create a new layer, name it "Sword Fight Backdrop".  
+    
+
+2. Move this layer underneath the "Sword Fight" layer.  
+    
+
+3. While Selected on the "Sword Fight Backdrop" layer, select the brush tool. Set the size of the brush to 700 and the color to black.
+    
+
+4. Color the bottom where you placed the "Sword Fight" layer. Though we encourage the artist's touch here, we find that 3 passes of the brush is sufficient.  
+    
+    <img src="https://user-images.githubusercontent.com/90651225/162331657-09fdbb78-6a29-4b6f-b48e-9a00f027a341.gif">
+    
+## Making an Image more visible - Face Highlighting
+    
+When we have humans in a photo, highlighting their faces is a good way to pull attention toward them. Because this is not a low opacity layer, we cannot draw a backdrop for it like we did in the previous steps. Instead, we are going to cut out his face, then increase it's brightness.
+    
+1. **CTRL-Click** on the samurai layer where it's thumbnail is.
+    
+    <img src="https://user-images.githubusercontent.com/90651225/162333003-e311a5f6-35ba-4a32-87a4-591c878db99b.png">
+
+
+
 ## Conclusion
 
