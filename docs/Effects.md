@@ -34,7 +34,7 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
 ## [](#header-2)Vignette
 1. _Create_ a new layer and call it “Top Black”, move it to the top of the hierarchy.
-2. While on the layer mask use a medium, hardness 0%, black **brush** and paint just off the top of the canvas, letting the edges of the brush spray paint the top of the image as shown in the image. This is called a vignette.
+2. While on the layer mask use a size 500, opacity 100, hardness 0%, black **brush** and paint just off the top of the canvas, letting the edges of the brush spray paint the top of the image as shown in the image. This is called a vignette.
 
     ![Image 5](https://user-images.githubusercontent.com/72904003/161461634-7c0fdcfe-f514-4f25-9655-5cf566a7f6fa.png)
 
@@ -48,7 +48,7 @@ If it doesn't, try looking back at the previous step to see what you may have mi
 
     ![Image 7](https://user-images.githubusercontent.com/72904003/161461659-c65ae37e-f0f0-4d59-ac41-7e7d6d420e40.png)
 
-4. Go to filter > render > lens flare > 100% brightness and 105mm then position the lens flare by dragging it with your mouse as in the image. 
+4. Go to filter > render > lens flare > 100% brightness and 105mm then position the lens flare by dragging it with your mouse as shown in the image, then press ok. 
 
     ![Image 8](https://user-images.githubusercontent.com/72904003/161461673-08bb8322-edb7-42cd-ad92-80e6025e86f3.png)
 
