@@ -10,7 +10,7 @@ This step will insert text into the photo and add a silver text effect. First of
 
 ## [](#header-2)Group layers
 
-1. *Click* the *`Create a new group`*. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create a new group.png" alt="Create a new group" width="20" height="20"> ) on the right bottom with no layers selected.
+1. *Click* the `Create a new group`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create a new group.png" alt="Create a new group" width="20" height="20"> ) on the right bottom with no layers selected.
  
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create_Group.png" alt="initial_image" width="670" height="800">
 
@@ -20,11 +20,13 @@ This step will insert text into the photo and add a silver text effect. First of
 
 ## [](#header-2)Insert Text
 
-Now, let's insert normal text into the photo. *Click* the **`Horizontal Type Tool`**. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Horizontal Type Tool.png" alt="Horizontal Type Tool" width="20" height="20"> ) and *click* wherever you want to insert the text in the picture, and you can edit the text when you *click* the text. `Lorem Ipsum` can be displayed as a default text, and let's change it to `The`. Then, *drag and drop* the text layer into the group named `Text`.
+Now, let's insert normal text into the photo. 
+
+1. *Click* the `Horizontal Type Tool`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Horizontal Type Tool.png" alt="Horizontal Type Tool" width="20" height="20"> ) and *click* wherever you want to insert the text in the picture, and you can edit the text when you *click* the text. `Lorem Ipsum` can be displayed as a default text, and let's change it to `The`. Then, *drag and drop* the text layer into the group named `Text`.
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Text2.png" alt="text2" width="670" height="800">
 
-Let's create the text `Last` and `Samurai` in the same way. By the way, Please select the font style according to below.
+2. Let's create the text `Last` and `Samurai` in the same way. By the way, Please select the font style according to below.
 
 | Font | |
 |:---|:---|
@@ -32,7 +34,7 @@ Let's create the text `Last` and `Samurai` in the same way. By the way, Please s
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Text3.png" alt="text3" width="670" height="800">
 
-Now let's change the position of the text. You can easily reposition by *clicking* the **`Move tool`**. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Move tool.png" alt="Move Tool" width="25" height="20"> ) and *dragging and dropping*. Don't forget to *click* **`Move tool`** to move the text layers.
+3. Now let's change the position of the text. You can easily reposition by *clicking* the `Move tool`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Move tool.png" alt="Move Tool" width="25" height="20"> ) and *dragging and dropping*. Don't forget to *click* **`Move tool`** to move the text layers.
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Text4.png" alt="text4" width="670" height="800">
 
@@ -40,7 +42,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
 
 ## [](#header-2)Add a layer style
  
-First, make one *copy* of each text layer. Select the text layer, *right-click* and *click* **`Duplicate Layer`**. When the Duplicate Layer pop-up window appears, *click* OK.
+1. First, make one *copy* of each text layer. Select the text layer, *right-click* and *click* `Duplicate Layer`. When the Duplicate Layer pop-up window appears, *click* OK.
 (This is for the shiny-silver-effect we are aiming for. Therefore, it may be an unnecessary step when decorating the text with a different style.)
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1.png" alt="Layer1" width="670" height="800">
@@ -50,11 +52,11 @@ Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last 
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-3.png" alt="Layer1-3" width="400" height="600">
 
-Now, let's start with adding a layer style to the `The` layer. With the `The copy` text layer (NOT `The`) selected, *click* the **`Add a layer style`**. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and *click* the **`Blending option`**. Or you can *double click* the `The` text layer to do the same thing.
+2. Now, let's start with adding a layer style to the `The` layer. With the `The copy` text layer (NOT `The`) selected, *click* the `Add a layer style`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and *click* the `Blending option`. Or you can *double click* the `The` text layer to do the same thing.
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="400">
 
-When the **Layer Style** window pops up, please *click* or set the following in order. *Select* the **`Gradient Overlay`** and change the setting values.
+3. When the **Layer Style** window pops up, please *click* or set the following in order. *Select* the `Gradient Overlay` and change the setting values.
 
 | Setting      | Value                                   | 
 |:---|:---|
@@ -69,7 +71,7 @@ When the **Layer Style** window pops up, please *click* or set the following in 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3-2.png" alt="Layer3-2" width="600" height="450">
 
 
-Then also select **`Bevel & Emboss`**, change the values below, and click OK.
+4. Then also select `Bevel & Emboss`, change the values below, and click OK.
 
 | Setting      | Value                                   | 
 |:---|:---|
@@ -90,11 +92,11 @@ Then also select **`Bevel & Emboss`**, change the values below, and click OK.
 Boom! As you can see, the text `The` has a silver metal effect! But to make this look a little more realistic, we will do some extra work.
 
 
-*Select* the original `The` layer (NOT `The copy`) and *click* `Add a layer style` (or *double click* `The` layer)
+5. *Select* the original `The` layer (NOT `The copy`) and *click* `Add a layer style` (or *double click* `The` layer)
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
 
-*Select* **`Stroke`** in the **Layer Style** window, and set the following in order.
+6. *Select* `Stroke` in the **Layer Style** window, and set the following in order.
 
 | Setting      | Value                                   | 
 |:---|:---|
@@ -111,7 +113,7 @@ Boom! As you can see, the text `The` has a silver metal effect! But to make this
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
 
 
-Also, *select* **`Bevel & Emboss`** and change the values.
+7. Also, *select* **`Bevel & Emboss`** and change the values.
 
 | Setting      | Value                                   | 
 |:---|:---|
@@ -131,7 +133,7 @@ Also, *select* **`Bevel & Emboss`** and change the values.
 
 Well done. We're done adding a shiny silver style to the text layer. Then, let's *add* it to `Last` and `Samurai`. Don't you want to repeat the above process? We have a feature called **`Copy Layer Style`**. Let's *copy* the styles applied to the `The` and `The copy` layers and *paste* them into `Last`, `Samurai`, and `Last copy`, `Samurai copy`. In other words, *copy* the style of `The` layer and *paste* it to `Last` and `Samurai`, and in the same way, *copy* the `The copy` style and *paste* it to `Last copy` and `Samurai copy` layers.
 
-*Right-click* on the layer with the style you want to copy and *click* `Copy Layer Style`.
+8. *Right-click* on the layer with the style you want to copy and *click* `Copy Layer Style`.
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer10.png" alt="Layer10" width="670" height="800">
 
