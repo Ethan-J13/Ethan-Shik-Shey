@@ -46,14 +46,15 @@ Well done! Now, it’s time to add a layer style to the text layers.
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1.png" alt="Layer1" width="670" height="800">
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-2.png" alt="Layer1-2" width="670" height="300">
     <br>
-    Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
+
+2. Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-3.png" alt="Layer1-3" width="400" height="600">
 
-2. Now, let's start with adding a layer style to the `The` layer. With the `The copy` text layer (NOT `The`) selected, *click* the `Add a layer style`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and *click* the `Blending option`. Or you can *double click* the `The` text layer to do the same thing.
+3. Now, let's start with adding a layer style to the `The` layer. With the `The copy` text layer (NOT `The`) selected, *click* the `Add a layer style`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and *click* the `Blending option`. Or you can *double click* the `The` text layer to do the same thing.
 
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2.png" alt="Layer2" width="670" height="800"> <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer2-2.png" alt="Layer2-2" width="270" height="400">
 
-3. When the **Layer Style** window pops up, please *click* or set the following in order. *Select* the `Gradient Overlay` and change the setting values.
+4. When the **Layer Style** window pops up, please *click* or set the following in order. *Select* the `Gradient Overlay` and change the setting values.
 
     | Setting      | Value                                   | 
     |:---|:---|
@@ -68,7 +69,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer3-2.png" alt="Layer3-2" width="600" height="450">
     
 
-4. Then also select `Bevel & Emboss`, change the values below, and click OK.
+5. Then also select `Bevel & Emboss`, change the values below, and click OK.
 
     | Setting      | Value                                   | 
     |:---|:---|
@@ -89,11 +90,11 @@ Well done! Now, it’s time to add a layer style to the text layers.
     Boom! As you can see, the text `The` has a silver metal effect! But to make this look a little more realistic, we will do some extra work.
 
 
-5. *Select* the original `The` layer (NOT `The copy`) and *click* `Add a layer style` (or *double click* `The` layer)
+6. *Select* the original `The` layer (NOT `The copy`) and *click* `Add a layer style` (or *double click* `The` layer)
 
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer6.png" alt="Layer6" width="320" height="500">
 
-6. *Select* `Stroke` in the **Layer Style** window, and set the following in order.
+7. *Select* `Stroke` in the **Layer Style** window, and set the following in order.
 
     | Setting      | Value                                   | 
     |:---|:---|
@@ -110,7 +111,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer7.png" alt="Layer7" width="600" height="450">
 
 
-7. Also, *select* **`Bevel & Emboss`** and change the values.
+8. Also, *select* **`Bevel & Emboss`** and change the values.
 
     | Setting      | Value                                   | 
     |:---|:---|
@@ -130,11 +131,11 @@ Well done! Now, it’s time to add a layer style to the text layers.
 
     Well done. We're done adding a shiny silver style to the text layer. Then, let's *add* it to `Last` and `Samurai`. Don't you want to repeat the above process? We have a feature called **`Copy Layer Style`**. Let's *copy* the styles applied to the `The` and `The copy` layers and *paste* them into `Last`, `Samurai`, and `Last copy`, `Samurai copy`. In other words, *copy* the style of `The` layer and *paste* it to `Last` and `Samurai`, and in the same way, *copy* the `The copy` style and *paste* it to `Last copy` and `Samurai copy` layers.
 
-8. *Right-click* on the layer with the style you want to copy and *click* `Copy Layer Style`.
+9. *Right-click* on the layer with the style you want to copy and *click* `Copy Layer Style`.
 
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer10.png" alt="Layer10" width="670" height="800">
 
-9. Then, *right-click* on the layer you want to paste the style on and *click* `Paste Layer Style`.
+10. Then, *right-click* on the layer you want to paste the style on and *click* `Paste Layer Style`.
 
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer11.png" alt="Layer11" width="670" height="800">
 
