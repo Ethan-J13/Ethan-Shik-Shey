@@ -10,11 +10,11 @@ This step will insert text into the photo and add a silver text effect. First of
 
 ## [](#header-2)Group layers
 
-*Click* the **`Create a new group`**. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create a new group.png" alt="Create a new group" width="20" height="20"> ) on the right bottom with no layers selected.
+1. *Click* the *`Create a new group`*. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create a new group.png" alt="Create a new group" width="20" height="20"> ) on the right bottom with no layers selected.
  
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Create_Group.png" alt="initial_image" width="670" height="800">
 
-As a result, you can see the new group called `Group 1`. If you *double click* the group's name, you can change it. Let's change the name to whatever you want and press *Enter*. I named it `Text`.
+2. As a result, you can see the new group called `Group 1`. If you *double click* the group's name, you can change it. Let's change the name to whatever you want and press *Enter*. I named it `Text`.
 
  <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group1.png" alt="group1" height="400" width="300">  <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Group2.png" alt="group2" height="400" width="300"> 
 
