@@ -48,7 +48,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1.png" alt="Layer1" width="670" height="800">
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-2.png" alt="Layer1-2" width="670" height="300">
 
-Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
+    Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
 
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-3.png" alt="Layer1-3" width="400" height="600">
 
@@ -146,3 +146,6 @@ Nice job! You've done it! If you want to change the text size, you need to chang
 <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer12.png" alt="Layer12" width="670" height="800">
 
 Excellent! As you can see, the text has a shiny silver effect.
+
+## [](#header-2)Conclusion
+By the end of this section, you will have successfully added text layers to your picture and also silver layer effects. Great job! You can try adding different effects to your text in a similar way.
