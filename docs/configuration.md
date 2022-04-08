@@ -86,13 +86,26 @@ To combat this, we can create backdrops using the paint tool.
     
 ## Making an Image more visible - Face Highlighting
     
-When we have humans in a photo, highlighting their faces is a good way to pull attention toward them. Because this is not a low opacity layer, we cannot draw a backdrop for it like we did in the previous steps. Instead, we are going to cut out his face, then increase it's brightness.
+When we have humans in a photo, highlighting their faces is a good way to pull attention toward them. Because this is not a low opacity layer, we cannot draw a backdrop like we did in the previous steps. Instead, we are going to cut out his face, then increase it's brightness.
     
-1. **CTRL-Click** on the samurai layer where it's thumbnail is.
+1. **CTRL-Click** on the samurai layer where it's thumbnail is. This should select the Samurai.
     
     <img src="https://user-images.githubusercontent.com/90651225/162333003-e311a5f6-35ba-4a32-87a4-591c878db99b.png">
+    
+2. While holding *Alt* use the **lasso** tool to lasso out the samurai's body, leaving the head out.  
+    
+    Because we were holding *Alt* while lassoing, the selection made should be everything you did NOT lasso out. Your selection should now look like this:
+    
+    <img src="https://user-images.githubusercontent.com/90651225/162337917-79762541-cbaf-45a9-969b-e0df6f6d81ef.png">
+    
+3. Select the **Move** tool, *click* on the head while it is still lassoed, and copy/paste. This should give you cut-out of the samurai's face; Move it back so it fits on the body.
+    
 
-
+4. Name the layer you just created to "Samurai Face"
+    
+    
+5. While selected on the "Samurai Face" layer, change it's brightness to 72 using the same steps we used to increase the "Multiply" layer's brightness.  
+    
 
 ## Conclusion
-
+From this section 
