@@ -31,6 +31,7 @@ Now, let's insert normal text into the photo.
     | Font | |
     |:---|:---|
     | Style | `Times New Roman` |
+    
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Text3.png" alt="text3" width="670" height="800">
 
 3. Now let's change the position of the text. You can easily reposition by *clicking* the `Move tool`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Move tool.png" alt="Move Tool" width="25" height="20"> ) and *dragging and dropping*. Don't forget to *click* **`Move tool`** to move the text layers.
@@ -48,6 +49,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
     <br>
 
 2. Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
+
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-3.png" alt="Layer1-3" width="400" height="600">
 
 3. Now, let's start with adding a layer style to the `The` layer. With the `The copy` text layer (NOT `The`) selected, *click* the `Add a layer style`. ( <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Add a style.png" alt="Add a style" width="20" height="20"> ) button and *click* the `Blending option`. Or you can *double click* the `The` text layer to do the same thing.
