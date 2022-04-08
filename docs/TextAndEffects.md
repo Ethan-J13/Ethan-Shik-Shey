@@ -45,6 +45,7 @@ Well done! Now, it’s time to add a layer style to the text layers.
 (This is for the shiny-silver-effect we are aiming for. Therefore, it may be an unnecessary step when decorating the text with a different style.)
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1.png" alt="Layer1" width="670" height="800">
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-2.png" alt="Layer1-2" width="670" height="300">
+    <br>
     Now, you will see the six text layers, `Samurai`, `Samurai copy`, `Last`, `Last copy`, `The`, and `The copy`
     <img src="https://raw.githubusercontent.com/Ethan-J13/Ethan-Shik-Shey/gh-pages/assets/images/Shik_Images/Layer1-3.png" alt="Layer1-3" width="400" height="600">
 
