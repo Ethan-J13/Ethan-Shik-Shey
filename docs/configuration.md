@@ -107,5 +107,5 @@ When we have humans in a photo, highlighting their faces is a good way to pull a
 5. While selected on the "Samurai Face" layer, change it's brightness to 72 using the same steps we used to increase the "Multiply" layer's brightness.  
     
 
-## Conclusion
-From this section 
+We have now completed the project set-Up! In the next section we will be dealing with new tools and adding details to our image using layer effects:
+<a src="https://ethan-j13.github.io/Ethan-Shik-Shey/docs/Effects/">Layer Effects<a>
