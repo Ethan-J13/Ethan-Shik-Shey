@@ -7,7 +7,7 @@ nav_order: 2
 # :building_construction: Project Set-Up  
 To understand the new menus, items, and options these instructions highlight, we will be creating the image shown below. As you will see, all the base images we used to create the end product have been modified in some way using PhotoShop. For this section, we will be going over the setup of the project. We will learn how to create a project with the correct pixel dimensions, adjust brightness, and how to highlight some aspects of an image.  
     
-<img align= "center" width ="500" style="padding-left: 20px;" src="https://user-images.githubusercontent.com/90651225/161884126-5cbe8f3c-45b2-4843-a83e-3e3aa23abbc4.png">
+<img align= "center" width ="500" style="padding-left: 20px;" src="https://user-images.githubusercontent.com/90651225/162591493-2815a282-ce0e-42b6-8e47-88109cbc0add.png">
 
 ## Starting the Project  
     
